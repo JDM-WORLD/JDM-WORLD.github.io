@@ -3,6 +3,7 @@ remote_theme: daviddarnes/alembic
 navigation_header:
 - title: Home
   url: /
-  feature_image: "image.jpg"
 - title: test
   url: /yeet
+- title: Mental_Breakdown
+  url: /mental_breakdown/testpage
