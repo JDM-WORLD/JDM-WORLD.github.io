@@ -1,8 +1,9 @@
 ---
 title: yeet
 feature_text: |
+  ## help me
   internal screaming
-feature_image: "image.jpg"
+feature_image: "https://www.raidinfrance.com/wp-content/uploads/2014/09/IMAGE_FOND2014.jpg"
 excerpt: "internal screaming"
 aside: false
 ---
