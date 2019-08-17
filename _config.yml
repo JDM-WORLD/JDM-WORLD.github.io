@@ -1,5 +1,10 @@
 remote_theme: daviddarnes/alembic
 
+encoding: utf-8
+title: "Brams Site"
+logo: "https://cdn.discordapp.com/avatars/297035462143508481/728a7bfd9deb38f9312c3e41f97603c5.png?size=128"
+
+
 navigation_header:
 - title: Home
   url: /
@@ -7,3 +12,6 @@ navigation_header:
   url: /yeet
 - title: Mental_Breakdown
   url: /mental_breakdown/testpage
+  
+navigation_footer:
+- title: Epic gamer moment
