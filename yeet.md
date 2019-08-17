@@ -4,7 +4,7 @@ feature_text: |
   internal screaming
 feature_image: "image.jpg"
 excerpt: "internal screaming"
-aside: true
+aside: false
 ---
 # yeeter
 
